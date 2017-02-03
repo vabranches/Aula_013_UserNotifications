@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					4305CCC01E43F6310001F3E3 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 3XU35YZPYQ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3XU35YZPYQ;
 				INFOPLIST_FILE = Aula_013_UserNotifications/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "br.quaddro.com.Aula-013-UserNotifications";
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3XU35YZPYQ;
 				INFOPLIST_FILE = Aula_013_UserNotifications/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "br.quaddro.com.Aula-013-UserNotifications";
